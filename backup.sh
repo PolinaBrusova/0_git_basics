@@ -1,2 +1,2 @@
 echo "hello from Polina"
-echo "comment
+echo "comment"
